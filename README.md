@@ -2,7 +2,6 @@
 
 ### An Aspiring Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnyapawar01&label=Profile views&color=0e75b6&style=flat" alt="pradnyapawar01" /> </p>
 
 - 🔭 I'm currently working on **Power BI Dashboard**
 
